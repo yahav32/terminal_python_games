@@ -1,6 +1,6 @@
 # Terminal Python Games
 
-A collection of interactive terminal-based games developed in Python. This repository features a variety of games, from classic logic puzzles to client-server multiplayer applications and RPG-style adventures.
+A collection of interactive terminal-based games developed in Python. This repository features a variety of games.
 
 ---
 
