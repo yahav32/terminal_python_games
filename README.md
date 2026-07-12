@@ -46,7 +46,7 @@ A multi-user quiz application built using a **Client-Server architecture**.
      ```
 
 ### 4. Shortest Path Finder (`ShortestPathFinder/`) — **Hard**
-A visual pathfinder in the terminal that supports both **Breadth-First Search (BFS)** and **A* (A-Star)** algorithms to find the shortest path from start ('O') to end ('X') in a maze.
+A visual pathfinder in the terminal that supports both **Breadth-First Search (BFS)** and **A\* (A-Star)** algorithms to find the shortest path from start ('O') to end ('X') in a maze.
 - **Features:**
   - Curses-based real-time terminal animation/visualization.
   - Visualization of explored cells during the search progress.
