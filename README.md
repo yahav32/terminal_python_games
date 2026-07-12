@@ -29,19 +29,7 @@ A text-based RPG where choices matter. Explore a mysterious world, manage your r
   python AdvantureGame/game_advanture.py
   ```
 
-### 3. Shortest Path Finder (`ShortestPathFinder/`) — **Medium-Hard**
-A visual pathfinder in the terminal that uses the **Breadth-First Search (BFS)** algorithm to find the shortest path from start ('O') to end ('X') in a maze.
-- **Features:**
-  - Curses-based real-time terminal animation/visualization.
-  - BFS algorithm demonstration.
-  - Custom boundary checks and terminal size validation.
-- **How to Run:**
-  ```bash
-  python ShortestPathFinder/path_finder.py
-  ```
-  *(Note: Requires a terminal with curses support)*
-
-### 4. Quiz Game (`QuizGame/`) — **Hard**
+### 3. Quiz Game (`QuizGame/`) — **Medium**
 A multi-user quiz application built using a **Client-Server architecture**.
 - **Features:**
   - Centralized server managing questions and scores.
@@ -56,6 +44,19 @@ A multi-user quiz application built using a **Client-Server architecture**.
      ```bash
      python QuizGame/quiz_client.py
      ```
+
+### 4. Shortest Path Finder (`ShortestPathFinder/`) — **Hard**
+A visual pathfinder in the terminal that supports both **Breadth-First Search (BFS)** and **A* (A-Star)** algorithms to find the shortest path from start ('O') to end ('X') in a maze.
+- **Features:**
+  - Curses-based real-time terminal animation/visualization.
+  - Visualization of explored cells during the search progress.
+  - Implementations for both BFS and A* pathfinding.
+  - Custom boundary checks and dynamic terminal size validation.
+- **How to Run:**
+  ```bash
+  python ShortestPathFinder/path_finder.py
+  ```
+  *(Note: Requires a terminal with curses support)*
 
 ---
 
