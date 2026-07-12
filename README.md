@@ -17,7 +17,7 @@ The classic game of Tic-Tac-Toe played directly in your terminal.
   python XO/xo.py
   ```
 
-### 2. Adventure Game (`AdvantureGame/`) — **Medium**
+### 2. Adventure Game (`AdvantureGame/`) — **Easy**
 A text-based RPG where choices matter. Explore a mysterious world, manage your resources, and survive encounters.
 - **Features:** 
   - Player health and strength stats.
